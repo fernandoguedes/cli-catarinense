@@ -1,0 +1,21 @@
+{
+  "name": "cli-catarinense",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["futebol", "cli", "catarinense"],
+  "author": "Luís Fernando Guedes <lfernandoguedes@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "cli-table2": "^0.2.0",
+    "commander": "^2.15.0",
+    "kapti": "^1.0.0"
+  },
+  "bin": {
+    "catarinense": "./cli.js"
+  }
+}
