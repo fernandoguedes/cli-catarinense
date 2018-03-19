@@ -1,6 +1,6 @@
 # :soccer: CLI Campeonato Catarinense
 
-CLI com informações do Campeonato Catarinense
+Ferramenta de linha de comando que retorna informações do Campeonato Catarinense
 
 # Instalação
 
