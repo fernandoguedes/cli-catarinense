@@ -12,6 +12,8 @@ CLI com informações do Campeonato Catarinense
 
 `catarinense classificacao` ou `catarinense c`
 
+![Classificação do Catarinense](img/cli-catarinense.png)
+
 # Autor
 
 Luís Fernando Guedes
