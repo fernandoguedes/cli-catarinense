@@ -4,7 +4,7 @@ CLI com informações do Campeonato Catarinense
 
 # Instalação
 
-`npm install cli-catarinense`
+`npm install -g cli-catarinense`
 
 # Uso
 
